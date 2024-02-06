@@ -49,7 +49,7 @@ Content-Type: application/json
 
 ### Get Products by Category
 
-GET http://localhost:8080/product/category/c488eb5c-9db6-47d0-ae46-f1daa8b010ee HTTP/1.1
+GET http://localhost:8080/product/category/c488eb5c-9db6-47d0-ae46-f1daa8ct1002 HTTP/1.1
 Host: localhost:8080
 Content-Type: application/json
 

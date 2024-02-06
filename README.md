@@ -14,5 +14,5 @@ $ go mod tidy
 ```bash
 # development
 $ docker-compose up -d
-$ go run main.go
+$ go run cmd/catalog/main.go
 ```
